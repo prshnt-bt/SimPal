@@ -1,0 +1,10 @@
+# Render requirements.txt for your project
+
+# Python Version
+python_version >= 3.6
+
+# Required Packages
+requests==2.26.0
+difflib==3.7.4
+sentence-transformers==2.1.0
+transformers==4.11.3
